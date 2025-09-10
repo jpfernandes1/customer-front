@@ -10,6 +10,7 @@
   --accent: #7c3aed;
   --danger: #f97316;
   --surface: #ffffff;
+  --sidebar-text: #ffffff;
 }
 
 .dark {
@@ -19,6 +20,7 @@
   --accent: #a78bfa;
   --danger: #fb923c;
   --surface: #1f2937;
+  --sidebar-text: #ffffff;
 }
 
 body {
@@ -35,6 +37,7 @@ body {
   --color-accent: var(--accent);
   --color-danger: var(--danger);
   --color-surface: var(--surface);
+  --color-text: var(--sidebar-text)
 }
 
 .bg-background {
